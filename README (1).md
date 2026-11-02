@@ -23,7 +23,7 @@ The CSV contains missing values in the `Returns` field and two completely empty 
 
 ## Dashboard 1: Super Store Sales Dashboard
 
-![Super Store Sales Dashboard](images/sales-dashboard.png)
+![Super Store Sales Dashboard](images/Sales-dashboard.png)
 
 The dashboard includes:
 
@@ -40,7 +40,7 @@ The screenshot displays approximately **1.57M in sales**, **22K in quantity**, a
 
 ## Dashboard 2: 15-Day Sales Forecast
 
-![15-Day Sales Forecast](images/sales-forecast-dashboard.png)
+![15-Day Sales Forecast](images/Image-forecast-dashboard.png)
 
 The forecast page visualises historical sales and a 15-day forecast using Power BI's built-in forecasting functionality. It also includes a state-level sales comparison.
 
